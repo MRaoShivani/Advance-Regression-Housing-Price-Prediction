@@ -23,6 +23,3 @@ Surprise Housing, a US-based company, aims to enter the Australian market by lev
 
 ## Acknowledgements
 This project was inspired by the business needs of Surprise Housing and the desire to analyze the Australian housing market. The dataset used was provided by the company. Special thanks to the instructors and mentors for their guidance.
-
-## Contact
-Created by [@yourusername] - feel free to contact me!
